@@ -1,0 +1,7 @@
+map\_mods1 module
+=================
+
+.. automodule:: map_mods1
+   :members:
+   :undoc-members:
+   :show-inheritance:
